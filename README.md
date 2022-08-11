@@ -10,7 +10,6 @@
 - _Date Created_: July 15, 2022
 - _Last Modification Date_: July 18, 2022
 - _Website URL_: <https://take-off-fe.herokuapp.com/>
-- _Git URL_: <https://git.cs.dal.ca/meghnak/csci-5709-group13/-/tree/main>
 
 ## Authors
 
